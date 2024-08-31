@@ -7,14 +7,14 @@
 ### Core Idea:
 - **Intelligent Bots**: We are developing bots that utilize advanced algorithms to analyze market data and predict potential risks. These bots assist users in making more informed decisions, minimizing potential losses.
 
-- **Risk Management**: Our bots are designed with risk management principles in mind, allowing them to automatically adjust strategies according to market changes. Users can set their own risk parameters and receive tailored recommendations.
+- **Risk Management**: Our bots are designed to allow users to customize the bots according to their acceptable risk levels and risk management principles, ensuring that strategies align with market changes and personal risk tolerance.
 
 ### What We Offer:
-- **Risk Forecasting**: Users will be able to forecast risks and make decisions based on analytics and bot-generated recommendations.
+- **Risk Forecasting**: Users will be able to forecast risks and adjust their bots' behavior based on analytics and risk management principles.
 
-- **Customizable Strategies**: Tailor the bots to your needs and risk tolerance level to receive the most relevant advice.
+- **Customizable Strategies**: Tailor the bots to your needs and risk tolerance level to receive the most relevant and effective automated strategies.
 
-- **Decision Support**: Our service helps users navigate complex market conditions and protect their investments from unforeseen risks.
+- **Decision Support**: Our service provides bots that operate under user-defined risk management principles, helping to navigate complex market conditions and protect investments from unforeseen risks.
 
 ### Current Status:
 The project is in the early stages of development. More information will be available as the startup progresses. Stay tuned for updates!
@@ -28,14 +28,14 @@ The project is in the early stages of development. More information will be avai
 ### Основна ідея:
 - **Інтелектуальні боти**: Ми створюємо ботів, які використовують передові алгоритми для аналізу ринкових даних та прогнозування потенційних ризиків. Ці боти допомагають користувачам приймати більш обґрунтовані рішення, мінімізуючи можливі втрати.
 
-- **Ризик-менеджмент**: Наші боти розроблені з урахуванням принципів ризик-менеджменту, що дозволяє їм автоматично коригувати стратегії відповідно до змін на ринку. Користувачі зможуть задавати свої параметри ризику та отримувати індивідуальні рекомендації.
+- **Ризик-менеджмент**: Наші боти дозволяють користувачам налаштовувати їх відповідно до своїх рівнів прийнятного ризику та за принципами ризик-менеджменту, що забезпечує відповідність стратегій змінам на ринку та особистій толерантності до ризику.
 
 ### Що ми пропонуємо:
-- **Прогнозування ризиків**: Користувачі отримають можливість прогнозувати ризики та приймати рішення, базуючись на аналітиці та рекомендаціях ботів.
+- **Прогнозування ризиків**: Користувачі зможуть прогнозувати ризики та налаштовувати поведінку ботів відповідно до принципів ризик-менеджменту.
 
-- **Індивідуальні стратегії**: Налаштовуйте ботів відповідно до своїх потреб та рівня толерантності до ризиків, щоб отримати максимально релевантні поради.
+- **Індивідуальні стратегії**: Налаштовуйте ботів відповідно до своїх потреб та рівня толерантності до ризиків, щоб отримати найбільш релевантні та ефективні автоматизовані стратегії.
 
-- **Підтримка прийняття рішень**: Наш сервіс допоможе користувачам орієнтуватися в складних ринкових умовах і захищати свої інвестиції від непередбачених ризиків.
+- **Підтримка прийняття рішень**: Наш сервіс надає ботів, які діють за принципами управління ризиками, визначеними користувачем, допомагаючи орієнтуватися в складних ринкових умовах і захищати інвестиції від непередбачених ризиків.
 
 ### Поточний статус:
 Проект знаходиться на ранніх стадіях розробки. Більше інформації буде доступно в міру розвитку стартапу. Слідкуйте за оновленнями!
