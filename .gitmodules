@@ -1,0 +1,12 @@
+[submodule "ConventusUI"]
+	path = ConventusUI
+	url = git@github.com:fr0ster/ConventusUI.git
+[submodule "ConventusAuth"]
+	path = ConventusAuth
+	url = git@github.com:fr0ster/ConventusAuth.git
+[submodule "ConventusAPI"]
+	path = ConventusAPI
+	url = git@github.com:fr0ster/ConventusAPI.git
+[submodule "ConventusConfig"]
+	path = ConventusConfig
+	url = git@github.com:fr0ster/ConventusConfig.git
