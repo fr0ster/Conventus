@@ -13,3 +13,6 @@
 [submodule "ConventusSession"]
 	path = ConventusSession
 	url = git@github.com:fr0ster/ConventusSession.git
+[submodule "ConventusFrontendService"]
+	path = ConventusFrontendService
+	url = git@github.com:fr0ster/ConventusFrontendService.git
